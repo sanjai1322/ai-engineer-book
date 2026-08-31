@@ -1,0 +1,18 @@
+standup call 10:15am - sarah, mike, ???, someone from marketing
+
+sarah talked abt the dashboard redesign, says its almost done but the filters
+are broken on mobile. mike said he'd look at it tmrw but honestly who knows.
+needs to ship by friday or david will freak out
+
+action items;
+- sarah: fix mobile filters (by wed??)
+- mike: review sarahs PR
+- someone needs to update the staging server, nobody volunteered
+- marketing wants new screenshots for the blog post, idk who handles that
+
+also mike brought up that the API rate limits are hitting us in prod, we're
+getting 429s during peak hours. sarah suggested caching but no decision made.
+we should probably talk to devops about this but nobody knows who the devops
+contact is anymore since tom left
+
+next meeting: thursday same time, unless david moves it again

@@ -1,0 +1,20 @@
+1-on-1 w/ manager (monthly checkin)
+
+went fine, talked about promo timeline. she said Q1 "at the earliest" which
+means Q2 probably. asked about switching teams, she said "lets revisit in a
+month" which is what she said last month
+
+i mentioned the oncall burnout thing and she actually listened for once. might
+get an extra person on rotation
+
+she wants me to present at the eng all-hands in sept. topic TBD but probably
+the caching project. need to figure out what to say that isn't just "I added
+redis and it worked"
+
+also she hinted that budget cuts might affect the team. wouldn't say more.
+great.
+
+todo for me:
+- prep all-hands talk outline by aug 20
+- write up promo packet (again)
+- send her the oncall hours spreadsheet

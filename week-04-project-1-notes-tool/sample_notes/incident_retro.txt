@@ -1,0 +1,35 @@
+incident retro - prod outage aug 3
+
+what happened:
+deploy went out at 2:47pm, db migration failed silently, users started seeing
+500 errors by 2:52. monitoring didn't catch it for 18 minutes because the
+health check endpoint doesn't actually check the database (lol). on-call was
+alex but he was in a meeting with his phone on silent
+
+timeline:
+- 2:47 deploy triggered by CI
+- 2:52 first user reports in #support slack
+- 3:10 PagerDuty finally fires (wrong threshold config)
+- 3:12 alex sees it, starts investigating
+- 3:28 alex identifies the failed migration
+- 3:35 rollback initiated
+- 3:41 service restored
+- total downtime: ~49 minutes, affected ~2,300 users
+
+root cause: the migration script assumed a column existed that was dropped in a
+previous migration that hadn't been deployed to prod yet. classic.
+
+what went wrong:
+1. migration not tested against prod-like data
+2. health check is fake
+3. alerting thresholds were set during a traffic spike and never adjusted
+4. deploy happened during a meeting-heavy block
+
+action items
+- [ ] fix health check to actually ping db (alex, by aug 10)
+- [ ] add migration dry-run to CI pipeline (priya, aug 15)
+- [ ] review all alerting thresholds (alex + SRE team)
+- [ ] add deploy freeze during all-hands blocks (need manager approval?)
+- [ ] write customer-facing incident report (marketing? PM? unclear)
+
+follow up meeting next tuesday to check on these

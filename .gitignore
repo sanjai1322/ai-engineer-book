@@ -1,0 +1,40 @@
+# Environment variables — never commit your API key
+.env
+
+# Full book PDF manuscript
+ai-engineer-full-book*.pdf
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ChromaDB local storage
+.chroma/
+
+# SQLite databases
+*.db
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml

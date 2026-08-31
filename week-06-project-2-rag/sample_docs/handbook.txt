@@ -1,0 +1,166 @@
+ACME CORP — CUSTOMER HANDBOOK
+Last updated: January 2025
+===========================================
+
+TABLE OF CONTENTS
+1. Returns & Refunds
+2. Shipping & Delivery
+3. Product Warranty
+4. Payment & Billing
+5. Customer Support
+6. Privacy & Data
+
+---
+
+1. RETURNS & REFUNDS
+
+1.1 Return Window
+All products may be returned within 30 days of the delivery date. The item must
+be in its original packaging, unused, and with all tags attached. Items returned
+after 30 days will not be accepted.
+
+1.2 How to Initiate a Return
+To start a return, email returns@acmecorp.com with your order number and the
+reason for the return. Our team will reply within 2 business days with a prepaid
+shipping label. Pack the item securely and drop it off at any authorized shipping
+location.
+
+1.3 Refund Processing
+Refunds are processed within 5-7 business days after we receive and inspect the
+returned item. The refund will be issued to the original payment method. Please
+note that shipping costs are non-refundable unless the return is due to our
+error.
+
+1.4 Exchanges
+We do not offer direct exchanges at this time. To get a different item, please
+return the original and place a new order.
+
+1.5 Non-Returnable Items
+The following items cannot be returned:
+- Gift cards
+- Downloadable software
+- Personalized or custom-made products
+- Items marked as "Final Sale"
+
+---
+
+2. SHIPPING & DELIVERY
+
+2.1 Shipping Options
+We offer three shipping tiers:
+- Standard (3-5 business days): $5.99
+- Express (1-2 business days): $14.99
+- Overnight (next business day): $24.99
+
+Orders over $50 qualify for free standard shipping.
+
+2.2 Order Processing
+Orders placed before 2:00 PM EST on business days are processed the same day.
+Orders placed after 2:00 PM or on weekends are processed the next business day.
+
+2.3 Tracking Your Order
+A tracking number is emailed to you once your order ships. You can also check
+your order status by logging into your account on our website.
+
+2.4 International Shipping
+We ship to over 40 countries. International shipping rates and delivery times
+vary by destination. Import duties and taxes are the responsibility of the
+buyer and are not included in the shipping cost.
+
+2.5 Lost or Damaged Packages
+If your package arrives damaged, take photos and contact us within 48 hours.
+We will send a replacement at no extra cost. If your tracking shows delivered
+but you did not receive the package, contact us within 7 days and we will
+investigate.
+
+---
+
+3. PRODUCT WARRANTY
+
+3.1 Warranty Coverage
+All products are covered by a one-year limited warranty against manufacturing
+defects. This warranty covers defects in materials and workmanship under normal
+use conditions.
+
+3.2 What Is Not Covered
+The warranty does not cover:
+- Damage from misuse, accidents, or unauthorized modifications
+- Normal wear and tear
+- Cosmetic damage (scratches, dents)
+- Damage caused by third-party accessories
+
+3.3 How to File a Warranty Claim
+Email warranty@acmecorp.com with your order number, a description of the
+defect, and photos showing the issue. We will review your claim within 5
+business days and provide a resolution.
+
+3.4 Warranty Resolution
+If your warranty claim is approved, we will either repair the item, replace it,
+or issue a refund at our discretion. Replacement items carry the remainder of
+the original warranty period.
+
+---
+
+4. PAYMENT & BILLING
+
+4.1 Accepted Payment Methods
+We accept the following payment methods:
+- Visa, Mastercard, American Express
+- PayPal
+- Apple Pay and Google Pay
+- Acme Corp gift cards
+
+4.2 Payment Security
+All transactions are encrypted using TLS 1.3. We do not store your full credit
+card number on our servers. Payment processing is handled by Stripe, which is
+PCI-DSS compliant.
+
+4.3 Billing Issues
+If you notice an incorrect charge, contact billing@acmecorp.com within 30 days.
+Include your order number and a description of the discrepancy.
+
+---
+
+5. CUSTOMER SUPPORT
+
+5.1 Contact Us
+- Email: support@acmecorp.com
+- Phone: 1-800-ACME-123 (Monday-Friday, 9 AM - 6 PM EST)
+- Live chat: Available on our website during business hours
+
+5.2 Response Times
+We aim to respond to all emails within 24 hours. Phone wait times are typically
+under 5 minutes. Live chat is usually instant during business hours.
+
+5.3 Escalation
+If you are not satisfied with the initial response, you may request escalation
+to a supervisor. Supervisors respond within 48 hours.
+
+---
+
+6. PRIVACY & DATA
+
+6.1 What We Collect
+We collect the information necessary to process your orders: name, email,
+shipping address, and payment information.
+
+6.2 How We Use Your Data
+Your data is used to:
+- Process and ship your orders
+- Send order confirmations and shipping updates
+- Improve our products and services
+
+We do not sell your personal data to third parties.
+
+6.3 Data Deletion
+You may request deletion of your account and personal data by emailing
+privacy@acmecorp.com. We will process your request within 30 days, subject to
+legal retention requirements.
+
+---
+
+END OF HANDBOOK
+
+Note: This handbook does not cover employment policies, internal HR procedures,
+or product specifications. For product-specific information, see the
+documentation included with your purchase.

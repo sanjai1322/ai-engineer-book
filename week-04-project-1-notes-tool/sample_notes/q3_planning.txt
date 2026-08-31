@@ -1,0 +1,31 @@
+Q3 planning - product team
+july 12
+
+attendees: jessica, raj, olivia, chris, + that new PM (forgot name)
+
+went through the roadmap. too many things, not enough people. story of our lives
+
+top priorities (supposedly final but watch this change by monday):
+1. self-serve onboarding flow - jessica owns this, target aug 15
+2. billing dashboard v2 - raj, but he's also on support rotation so ???
+3. API v3 deprecation - chris handling migration docs, olivia on actual code
+4. analytics overhaul - pushed to Q4, nobody was happy about it
+
+raj raised concerns about the billing thing, says the current schema is a mess
+and he'll need at least 2 weeks just to understand it before writing new code.
+jessica said "we don't have 2 weeks" which is helpful. chris suggested pairing
+on it but raj was like "no offense but you don't know the billing code either"
+
+budget: jessica said we have budget for one contractor. raj wants a backend
+person, olivia wants frontend. unresolved. jessica will "think about it" (so
+a backend person then, since jessica always sides with backend)
+
+olivia demoed the new component library - looks great honestly. everyone agreed
+to adopt it for new features but NOT retrofit old pages, at least not now.
+
+open questions
+- who is our point person for the API v3 customer comms?
+- do we need legal review for the new ToS in billing?
+- the intern starts next week, who's mentoring? nobody volunteered (again)
+
+chris took notes but I bet he won't send them so I'm writing these just in case
